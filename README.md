@@ -6,3 +6,4 @@ feature-4
 feature-5
 hot-fix-1
 feature-6
+hot-fix-2

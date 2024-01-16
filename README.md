@@ -5,3 +5,4 @@ feature-3
 feature-4
 feature-5
 hot-fix-1
+hot-fix-2
